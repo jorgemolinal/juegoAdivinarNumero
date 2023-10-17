@@ -1,0 +1,14 @@
+C:\Users\jorge.mlafuente\source\repos\adivinarNumero\adivinarNumero\obj\Debug\net6.0\adivinarNumero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorge.mlafuente\source\repos\adivinarNumero\adivinarNumero\obj\Debug\net6.0\adivinarNumero.AssemblyInfoInputs.cache
+C:\Users\jorge.mlafuente\source\repos\adivinarNumero\adivinarNumero\obj\Debug\net6.0\adivinarNumero.AssemblyInfo.cs
+C:\Users\jorge.mlafuente\source\repos\adivinarNumero\adivinarNumero\obj\Debug\net6.0\adivinarNumero.csproj.CoreCompileInputs.cache
+C:\Users\jorge.mlafuente\source\repos\adivinarNumero\adivinarNumero\bin\Debug\net6.0\adivinarNumero.exe
+C:\Users\jorge.mlafuente\source\repos\adivinarNumero\adivinarNumero\bin\Debug\net6.0\adivinarNumero.deps.json
+C:\Users\jorge.mlafuente\source\repos\adivinarNumero\adivinarNumero\bin\Debug\net6.0\adivinarNumero.runtimeconfig.json
+C:\Users\jorge.mlafuente\source\repos\adivinarNumero\adivinarNumero\bin\Debug\net6.0\adivinarNumero.dll
+C:\Users\jorge.mlafuente\source\repos\adivinarNumero\adivinarNumero\bin\Debug\net6.0\adivinarNumero.pdb
+C:\Users\jorge.mlafuente\source\repos\adivinarNumero\adivinarNumero\obj\Debug\net6.0\adivinarNumero.dll
+C:\Users\jorge.mlafuente\source\repos\adivinarNumero\adivinarNumero\obj\Debug\net6.0\refint\adivinarNumero.dll
+C:\Users\jorge.mlafuente\source\repos\adivinarNumero\adivinarNumero\obj\Debug\net6.0\adivinarNumero.pdb
+C:\Users\jorge.mlafuente\source\repos\adivinarNumero\adivinarNumero\obj\Debug\net6.0\adivinarNumero.genruntimeconfig.cache
+C:\Users\jorge.mlafuente\source\repos\adivinarNumero\adivinarNumero\obj\Debug\net6.0\ref\adivinarNumero.dll
